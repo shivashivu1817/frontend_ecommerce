@@ -1,0 +1,11 @@
+/var/www/project/
+/var/www/project/
+/var/www/chethans_pythonanywhere_com_wsgi.py
+
+
+https://agent-6a2c4f291a640851c0c--dashing-dragon-a9a2b9.netlify.app
+
+
+
+
+https://6a2c4f9988b83f6883083e06--dashing-dragon-a9a2b9.netlify.app/
